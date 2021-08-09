@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CarAvenueAdmin/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/CarAvenueAdmin/static/js/main.cc24b0c1.chunk.js",
+    "main.js.map": "/CarAvenueAdmin/static/js/main.cc24b0c1.chunk.js.map",
+    "runtime-main.js": "/CarAvenueAdmin/static/js/runtime-main.d7c5bba7.js",
+    "runtime-main.js.map": "/CarAvenueAdmin/static/js/runtime-main.d7c5bba7.js.map",
+    "static/css/2.42b83389.chunk.css": "/CarAvenueAdmin/static/css/2.42b83389.chunk.css",
+    "static/js/2.5809ffaf.chunk.js": "/CarAvenueAdmin/static/js/2.5809ffaf.chunk.js",
+    "static/js/2.5809ffaf.chunk.js.map": "/CarAvenueAdmin/static/js/2.5809ffaf.chunk.js.map",
+    "index.html": "/CarAvenueAdmin/index.html",
+    "static/css/2.42b83389.chunk.css.map": "/CarAvenueAdmin/static/css/2.42b83389.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/CarAvenueAdmin/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.5809ffaf.chunk.js.LICENSE.txt": "/CarAvenueAdmin/static/js/2.5809ffaf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7c5bba7.js",
+    "static/css/2.42b83389.chunk.css",
+    "static/js/2.5809ffaf.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.cc24b0c1.chunk.js"
+  ]
+}
